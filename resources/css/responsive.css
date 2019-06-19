@@ -1,0 +1,116 @@
+@media only screen and (max-width:1200px){
+	.row{
+		margin:0 15px;
+	}
+	.hero-text-box{
+		width:90%;
+	}
+}
+@media only screen and (max-width:1024px){
+	.mobile-menu span{
+		display:block;
+	}
+	.sticky .logo{
+	margin-top:1rem;;
+	}
+	.mobile-menu span{
+		margin-top:2rem;
+	}
+	
+	.main-nav{
+		display:none;
+	}
+	html{
+		font-size:57.5%;
+	}
+	.social-link ul li{
+		margin:0 2px;
+	}
+	.client-photo{
+		width:100%;
+		float:none;
+		text-align:center;
+	}
+	.client-revew{
+		width:94%;
+		float:none;
+		text-align:center;
+	}
+	.contact-section form{
+		width:100%;
+		margin-left:0;
+	}
+	
+	
+}
+@media only screen and (max-width:980px){
+	.span_1_of_4{
+		width:48.2%
+	}
+	.span_1_of_:nth-child(3){
+		margin-left:0;
+	}
+	html{
+		font-size:62.5%;
+	}
+}
+@media only screen and (max-width:768px){
+	header{
+		height:70vh;
+	}
+	.description{
+		width:100%;
+		margin-left:0;
+	}
+	
+	section{
+		padding:8rem 3rem;
+	}
+	h1{
+		font-size:3.7rem;
+	}
+	h2{
+		font-size:3rem;
+	}
+	h3{
+		font-size:2rem;
+	}
+}
+@media only screen and (max-width:480px){
+	.span_1_of_4{
+		width:100%
+	}
+	h1{
+		font-size:3rem;
+	}
+	h2{
+		font-size:2.2rem;
+		letter-spacing:.2rem;
+	}
+	.testimonial-section .col:nth-child(3),
+	.testimonial-section .col:nth-child(4){
+	margin-top:4rem;
+	}
+	section{
+		padding:8rem 2rem;
+	}
+	.portfolio-filter{
+		margin:4.5rem -3.6rem;
+	}
+	.row{
+		width:100%;
+		margin:auto;
+	}
+	
+	.logo{
+		margin-left:1rem;
+		margin-top:2.2rem;
+	}
+	.sticky{
+		width:100%;
+		margin:0 -9px;
+	}
+	.mobile-menu span{
+		margin-top:1rem;
+	}
+}
